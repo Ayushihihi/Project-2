@@ -1,5 +1,5 @@
 ## Overview
-'MyToken' is a simple Ethereum-based ERC20 token contract implemented in Solidity. This contract allows you to mint and burn tokens, keeping track of balances and total supply. Below are the key features and functionalities of the contract.
+'MyToken' is a simple Ethereum-based token contract implemented in Solidity. This contract allows you to mint and burn tokens, keeping track of balances and total supply. Below are the key features and functionalities of the contract.
 
 ## Features
 
